@@ -73,8 +73,8 @@ print(list_of_nums)
 ```
 
 ## Output:
-![](./Screenshot%202023-12-28%20225403.png)
-![](./Screenshot%202023-12-28%20225422.png)
+![Screenshot 2023-12-28 225403](https://github.com/DHOESH123/Sorting-Algorithm/assets/150319589/fd636211-794a-4645-94fe-463fe17331ee)
+![Screenshot 2023-12-28 225422](https://github.com/DHOESH123/Sorting-Algorithm/assets/150319589/19a1b99c-fd28-45db-bad5-fa1aec1316e7)
 
-## Result:
+
 Thus the program is written to perform selection sort and insertion sort using python programming.
